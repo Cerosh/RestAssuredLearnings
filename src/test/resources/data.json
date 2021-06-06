@@ -1,0 +1,159 @@
+{
+  "friends": [
+    {
+      "firstname": "Raghubir",
+      "lastname": "Singh",
+      "id": "manoj",
+      "age": 38
+    },
+    {
+      "firstname": "Tejinder",
+      "lastname": "Bhatti",
+      "id": "deepak",
+      "age": 30
+    },
+    {
+      "address": {
+        "h_No": "22",
+        "street": "Kumba",
+        "zipCode": "2287"
+      },
+      "courseName": "MCA",
+      "firstName": "Cerosh",
+      "lastName": "Jacob",
+      "designation": "Automation",
+      "mentorName": "Alex",
+      "id": "3892"
+    },
+    {
+      "address": [
+        {
+          "h_No": "12",
+          "street": "77 Springs Park",
+          "zipCode": "662955"
+        },
+        {
+          "h_No": "89",
+          "street": "56865 Hoard Plaza",
+          "zipCode": "652672"
+        }
+      ],
+      "firstName": "Ranbin",
+      "lastName": "Singh",
+      "courseName": "Biology",
+      "designation": "Team Lead",
+      "mentorName": "Rajath",
+      "id": "22334"
+    },
+    {
+      "firstName": "Cerosh",
+      "Designation": "Automation Specialist",
+      "Experience": "years",
+      "id": "369_Apriel"
+    },
+    {
+      "firstName": "Simi",
+      "Designation": "NA/Test Analyst",
+      "Experience": "10 years",
+      "id": "2389"
+    },
+    {
+      "firstName": "Rohan",
+      "Designation": "Student",
+      "Experience": "years",
+      "id": "28May02"
+    },
+    {
+      "firstName": "Rithu",
+      "Designation": "Student",
+      "Experience": "years",
+      "id": "280501"
+    },
+    {
+      "firstName": "Rohan",
+      "Designation": "Cerosh",
+      "Experience": "years",
+      "id": "250502"
+    },
+    {
+      "firstName": "Benjamin",
+      "lastName": "Carlos",
+      "age": 72,
+      "profession": "Tailor",
+      "id": 234
+    },
+    {
+      "firstName": "Arshbit",
+      "lastName": "Singh",
+      "age": 9,
+      "profession": "student",
+      "id": 236
+    },
+    {
+      "firstName": "Arshbit",
+      "lastName": "Singh",
+      "age": 9,
+      "profession": "student",
+      "id": 237
+    },
+    {
+      "firstName": "Rashmitha",
+      "lastName": "Santhos",
+      "age": 42,
+      "profession": "Advocate",
+      "id": 238
+    },
+    {
+      "firstName": "Rashmitha",
+      "lastName": "Santhos",
+      "age": 42,
+      "profession": "Advocate",
+      "id": 239
+    },
+    {
+      "firstName": "Rashmitha",
+      "lastName": "Santhos",
+      "age": 42,
+      "profession": "Advocate",
+      "id": 240
+    },
+    {
+      "firstName": "Rashmitha",
+      "lastName": "Santhos",
+      "age": 42,
+      "profession": "Advocate",
+      "id": 241
+    },
+    {
+      "firstName": "Rashmitha",
+      "lastName": "Santhos",
+      "age": 42,
+      "profession": "Advocate",
+      "id": 242
+    },
+    {
+      "firstName": "Arshbit",
+      "lastName": "Singh",
+      "age": 9,
+      "profession": "student",
+      "id": 243
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "integer"
+    },
+    "first_name": {
+      "type": "string"
+    },
+    "last_name": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "Age": {
+      "type": "integer"
+    },
+    "Student": {
+      "type": "boolean"
+    },
+    "Address": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "StreetAddress": {
+              "type": "string"
+            },
+            "State": {
+              "type": "string"
+            },
+            "Country": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "StreetAddress",
+            "State",
+            "Country"
+          ]
+        }
+      ]
+    },
+    "Phone": {
+      "type": "array",
+      "items": [
+        {
+          "type": "object",
+          "properties": {
+            "Mobile": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Mobile"
+          ]
+        },
+        {
+          "type": "object",
+          "properties": {
+            "Home": {
+              "type": "string"
+            }
+          },
+          "required": [
+            "Home"
+          ]
+        }
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "first_name",
+    "last_name",
+    "email",
+    "gender",
+    "Age",
+    "Student",
+    "Address",
+    "Phone"
+  ]
+}

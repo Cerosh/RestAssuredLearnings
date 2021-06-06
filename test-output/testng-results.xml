@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3376" started-at="2021-06-06T11:28:00 AEST" finished-at="2021-06-06T11:28:04 AEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3376" started-at="2021-06-06T11:28:00 AEST" finished-at="2021-06-06T11:28:04 AEST">
+      <class name="ResponseDataParsing.JSONPath.JSONPath">
+        <test-method status="PASS" signature="filterBasedOnTheContentType()[pri:0, instance:ResponseDataParsing.JSONPath.JSONPath@13eb8acf]" name="filterBasedOnTheContentType" duration-ms="3329" started-at="2021-06-06T11:28:00 AEST" finished-at="2021-06-06T11:28:04 AEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterBasedOnTheContentType -->
+      </class> <!-- ResponseDataParsing.JSONPath.JSONPath -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
